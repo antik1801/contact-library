@@ -1,0 +1,15 @@
+footer {
+    background-color: #343a40; /* Dark background */
+  }
+  
+  footer a {
+    transition: color 0.2s ease; /* Smooth transition for links */
+  }
+  
+  footer a:hover {
+    color: #ffcc00; /* Change color on hover */
+  }
+  
+  .social-icons {
+    font-size: 1.5rem; /* Size of social media icons */
+  }

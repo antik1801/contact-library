@@ -1,0 +1,27 @@
+.custom-navbar {
+    background: linear-gradient(to right, #6a11cb, #2575fc); /* Gradient background */
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .custom-navbar .nav-link,
+  .custom-navbar .nav-button {
+    color: white; /* White text for links */
+  }
+  
+  .custom-navbar .nav-link:hover,
+  .custom-navbar .nav-button:hover {
+    color: #ffcc00; /* Gold color on hover */
+    background-color: rgba(255, 255, 255, 0.2); /* Slight white background on hover */
+  }
+  
+  @media (max-width: 992px) {
+    .custom-navbar .nav-link,
+    .custom-navbar .nav-button {
+      margin: 0.5rem 0; /* Add some margin for mobile view */
+    }
+  }
+
+  .toggle-button {
+    background-color: wheat; /* Make the toggle button background transparent */
+    border: none; /* Remove default border */
+  }

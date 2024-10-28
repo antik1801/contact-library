@@ -1,0 +1,8 @@
+.custom-carousel {
+    margin: 20px 0; /* Add some margin around the carousel */
+  }
+  
+  .custom-carousel img {
+    height: 400px; /* Set a specific height for the images */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+  }

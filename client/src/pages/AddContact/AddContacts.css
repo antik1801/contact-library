@@ -1,0 +1,19 @@
+/* Form.css or a similar file */
+
+.contact-form-container {
+    padding: 20px;
+  }
+  
+  .card {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+  
+  .card img {
+    border-bottom: 2px solid #ddd;
+  }
+  
